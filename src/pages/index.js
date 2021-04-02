@@ -72,7 +72,7 @@ const SurveyModel = ({ isOpen, onClose }) => (
       <div class="modal-content bg-white  text-left w-full mx-auto">
         <ReactTypeformEmbed
           style={{ height: "500px", width: "100%", position: "relative" }}
-          url="https://form.typeform.com/to/GVCzFy"
+          url="https://form.typeform.com/to/o8mtQaej"
         />
       </div>
     </div>
