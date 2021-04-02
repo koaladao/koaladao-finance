@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://koaladao.com/sitemap.xml
+Host: https://koaladao.com
