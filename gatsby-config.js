@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: "/koaladao-finance",
   siteMetadata: {
     title: `Koala`,
     description: `koaladao is a delegated yield aggregator`,
